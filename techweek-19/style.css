@@ -32,8 +32,7 @@
 @keyframes road{
     100%{
         transform: translateX(-3400px);
-    }
-}
+    }}
 
 .city
 {
