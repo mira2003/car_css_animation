@@ -1,3 +1,3 @@
 # techweek_animation
 
-This repo contains the codes for the demo made for techweek
+This repo contains the code for the demo made for techweek
